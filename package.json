@@ -2,6 +2,7 @@
   "name": "toothcraft",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://toothcraft.net",
   "dependencies": {
     "firebase": "^9.0.0",
     "react": "^18.0.0",
